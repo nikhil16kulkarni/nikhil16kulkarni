@@ -2,6 +2,7 @@
 
 Welcome to my GitHub! I am a highly motivated and detail-oriented computer science graduate student with a strong foundation in both theoretical concepts and practical applications. I have a passion for leveraging technology to solve complex problems and am actively seeking full-time opportunities in Software Development, Software Engineering, Data Science, Data Analysis, and Data Engineering roles.
 
+
 ## 💡 Skills and Expertise
 
 - **Programming Languages and Tools:** Proficient in Python (NumPy, Pandas, Matplotlib, Seaborn, Folium, TensorFlow, Sklearn, NLTK, Tweepy, TextBlob, FBProphet, Yellowbrick), Java, C/C++, Go, Kotlin, Scala, R, MATLAB, Ruby, Android, Tableau, Git, JIRA, Postman.
@@ -59,3 +60,6 @@ Welcome to my GitHub! I am a highly motivated and detail-oriented computer scien
 I am actively seeking full-time opportunities in Software Development, Software Engineering, Data Science, Data Analysis, and Data Engineering roles. With a strong academic background and hands-on experience, I am eager to contribute to innovative projects and bring a data-driven approach to problem-solving.
 
 Feel free to explore my GitHub repositories, and if you have any exciting opportunities or collaboration ideas, I would love to hear from you!
+
+
+![Profile Visits](https://komarev.com/ghpvc/?username=nikhil16kulkarni&color=brightgreen)
