@@ -42,7 +42,7 @@ Welcome to my GitHub! I am a highly motivated and detail-oriented computer scien
 ## 📫 How to Reach Me:
 - ✉️ [nikkulk@iu.edu](mailto:nikkulk@iu.edu) | [nikhil16kulkarni@gmail.com](nikhil16kulkarni@gmail.com)
 - ☎ +1 812-778-5255
-- 🇮🇳 [LinkedIn](https://www.linkedin.com/in/nikhil16kulkarni)
+- 🗂 [LinkedIn](https://www.linkedin.com/in/nikhil16kulkarni)
 
 ## 🔍 Seeking Opportunities
 
