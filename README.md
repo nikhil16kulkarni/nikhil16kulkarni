@@ -27,23 +27,12 @@ Welcome to my GitHub! I am a highly motivated and detail-oriented computer scien
 
 ## 👨‍💻 Experience
 
-### Research Assistant | IU Kelley School of Business
+#### As a Research Assistant at IU Kelley School of Business, spearheaded the implementation of advanced supercomputer-driven predictive models for healthcare, harmonizing patient cohorts and mitigating bias by 35% through the discerning analysis of 13+ TB of Optum data.
 
-- Pioneered IU supercomputer-driven predictive models for healthcare, balancing patient cohorts and reducing bias by 35%.
-- Uncovered insights from 13+ TB of Optum data, optimizing pain management interventions with Logistic Regression.
-- Crafted impactful pain management proposals, utilizing a 92% accurate RNN model across 300+ medical categories.
+#### Elevated operational efficiency at Veritas Technologies LLC as a Project Intern by ingeniously leveraging system resource utilization, effectuating a notable 20% increase in scheduling resource-intensive tasks, while also employing sophisticated machine learning models and LSTM algorithms to attain an impressive 87% accuracy in data-driven solutions using Google Cluster Data.
 
-### Project Intern | Veritas Technologies LLC
+#### As a Software Developer Intern at Sagitec Solutions, I distinguished myself by spearheading the development of machine learning models to enhance customer data analysis. Simultaneously, I played a pivotal role in crafting a high-precision Rasa chatbot, resulting in an impressive 87% accuracy rate and a notable 50% reduction in response times for client inquiries.
 
-- Leveraged system resource utilization to achieve a 20% efficiency increase in scheduling resource-intensive tasks.
-- Implemented a data-driven solution using Google Cluster Data, aggregating CPU and Memory usage from 1600 VMs over 10 days.
-- Utilized ML models, time-series forecasting methods, and LSTM algorithm achieving 87% accuracy.
-
-### Software Developer Intern | Sagitec Solutions
-
-- Developed ML models for customer data analysis, resulting in a 30% increase in Net Promoter Score.
-- Collaborated on a Rasa chatbot to resolve client inquiries, delivering 87% accuracy and reducing response times by 50%.
-- Created efficient web services, utilizing JSON configuration and Python APIs to optimize data exchange processes.
 
 ## 👯 Looking to Collaborate On:
 
