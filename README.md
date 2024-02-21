@@ -1,6 +1,8 @@
 # Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Nikhil 🚀
 
-Welcome to my GitHub! I am a highly motivated and detail-oriented computer science graduate student with a strong foundation in both theoretical concepts and practical applications. I have a passion for leveraging technology to solve complex problems and am actively seeking full-time opportunities in Software Development, Software Engineering, Data Science, Data Analysis, and Data Engineering roles.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+GitHub;Feel+free+to+explore;Don't+forget+to+leave+a+star!)](https://git.io/typing-svg)
+
+I am a highly motivated and detail-oriented computer science graduate student with a strong foundation in both theoretical concepts and practical applications. I have a passion for leveraging technology to solve complex problems and am actively seeking full-time opportunities in Software Development, Software Engineering, Data Science, Data Analysis, and Data Engineering roles.
 
 
 ## 💡 Skills and Expertise
