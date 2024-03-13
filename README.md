@@ -91,7 +91,8 @@ I am a highly motivated and detail-oriented computer science graduate student wi
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/nikhil16kulkarni"><img src="https://github-readme-stats.vercel.app/api?username=nikhil16kulkarni&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="nikhil16kulkarni's GitHub stats" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil16kulkarni&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&include_all_commits=true)
+
 
 🌟 Don't break the chain! Keep coding! 💻🚀
 
