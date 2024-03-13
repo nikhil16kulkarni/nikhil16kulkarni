@@ -97,7 +97,7 @@ I am a highly motivated and detail-oriented computer science graduate student wi
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhil16kulkarni&theme=blueberry-duo)](https://github.com/nikhil16kulkarni)
 
-[![Nikhil's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=nikhil16kulkarni&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+[![Nikhil's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=nikhil16kulkarni&theme=Dark)](https://leetcode.com/nikhil16kulkarni/)
 
 
 
