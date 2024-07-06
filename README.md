@@ -100,6 +100,8 @@ I am a highly motivated and detail-oriented computer science graduate student wi
 
 [![Nikhil's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=nikhil16kulkarni&theme=Dark)](https://leetcode.com/nikhil16kulkarni/)
 
+![](https://leetcard.jacoblin.cool/nikhil16kulkarni?ext=heatmap)
+
 
 
 ## 🧑‍🎓 Education
