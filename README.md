@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+GitHub;Feel+free+to+explore;Don't+forget+to+leave+a+star!)
 
-I am a highly motivated and detail-oriented computer science graduate student with a strong foundation in both theoretical concepts and practical applications. I have a passion for leveraging technology to solve complex problems and am actively seeking full-time opportunities in Software Development, Software Engineering, Data Science, Data Analysis, and Data Engineering roles.
+I am a highly motivated and detail-oriented computer science graduate student with a strong foundation in both theoretical concepts and practical applications. I have a passion for leveraging technology to solve complex problems ~~and am actively seeking full-time opportunities in Software Development, Software Engineering, Data Science, Data Analysis, and Data Engineering roles.~~
 
 
 ## 💡 Skills and Expertise
@@ -130,9 +130,14 @@ I am a highly motivated and detail-oriented computer science graduate student wi
 - ☎ +1 812-778-5255
 - <a href="https://www.linkedin.com/in/nikhil16kulkarni" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 
+<del> 
+
 ## 🔍 Seeking Opportunities
 
-I am actively seeking full-time opportunities in Software Development, Software Engineering, Data Science, Data Analysis, and Data Engineering roles. With a strong academic background and hands-on experience, I am eager to contribute to innovative projects and bring a data-driven approach to problem-solving.
+I am actively seeking full-time opportunities in Software Development, Software Engineering, Data Science, Data Analysis, and Data Engineering roles. With a strong academic background and hands-on experience, I am eager to contribute to innovative projects and bring a data-driven approach to problem-solving. 
+
+</del>
+
 
 Feel free to explore my GitHub repositories, and if you have any exciting opportunities or collaboration ideas, I would love to hear from you!
 
